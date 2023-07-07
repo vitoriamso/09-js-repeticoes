@@ -4,12 +4,12 @@ body{
 }
 
 header{
-    color: rgb(8, 20, 9);
+    color: rgb(186, 230, 190);
     text-align: center;
 }
 
 section{
-    background: white;
+    background: rgba(35, 74, 43, 0.468);
     border-radius: 10px;
     padding: 15px;
     width: 500px;
@@ -18,7 +18,7 @@ section{
 }
 
 footer{
-    color: rgb(15, 30, 15);
+    color: rgb(35, 110, 35);
     text-align: center;
     font-style: italic;
 
