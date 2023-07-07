@@ -4,7 +4,7 @@ body{
 }
 
 header{
-    color: white;
+    color: rgb(8, 20, 9);
     text-align: center;
 }
 
@@ -18,7 +18,7 @@ section{
 }
 
 footer{
-    color: white;
+    color: rgb(15, 30, 15);
     text-align: center;
     font-style: italic;
 
